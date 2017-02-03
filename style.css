@@ -1,0 +1,114 @@
+.wrapper{
+	width: 960px;
+	margin: 0 auto;
+}
+
+.header{
+	/*border: 2px solid red;*/
+	overflow: hidden;
+}
+
+.slider{
+	/*border: 2px solid red;*/
+	background: grey;
+}
+
+.about{
+	/*border: 2px solid red;*/
+	overflow: hidden;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.service{
+	/*border: 2px solid red;*/
+}
+
+.footer{
+	/*border: 2px solid red;*/
+	overflow: hidden;
+}
+
+.logo{
+	/*border: 2px solid green;*/
+	width: 30%;
+	float: left;
+}
+
+.menu{
+	/*border: 2px solid black;*/
+	width: 60%;
+	float: right;
+}
+
+.menu ul li{
+	display: inline;
+	/*border: 2px solid red;*/
+	margin: 5px;
+}
+
+.slider_image{
+	height: 300px;
+	/*border: 2px solid blue;*/
+}
+
+.about_image{
+	/*border: 2px solid red;*/
+	width: 45%;
+	float: left;
+}
+
+.about_image img{
+	width: 100%;
+}
+
+.about_content{
+	/*border: 2px solid red;*/
+	width: 45%;
+	float: right;
+	margin-top: 65px;
+}
+
+.ser{
+	/*border: 2px solid green;*/
+	width: 30%;
+	display: inline-block;
+	margin-left: 20px;
+}
+.contact{
+	/*border: 2px solid green;*/
+	float: left;
+	width: 45%;
+}
+
+#btn{
+	background: coral;
+	width: 200px;
+	height: 50px;
+	border: none;
+	cursor: pointer;
+}
+
+.map{
+	/*border: 2px solid green;*/
+	float: right;
+	width: 45%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
